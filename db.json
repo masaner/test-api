@@ -2,6 +2,7 @@
 	"tests": [
 		{
 			"_id": "55d66226726b611100aaf741",
+			"id": 1,
 			"replacement": false,
 			"quantity": 5,
 			"name": "Generator 1000 kW",
@@ -12,6 +13,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf742",
+			"id": 2,
 			"replacement": true,
 			"quantity": 183,
 			"name": "Cooling Fan",
@@ -22,6 +24,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf743",
+			"id": 3,
 			"replacement": true,
 			"quantity": 143,
 			"name": "Fuse 20A",
@@ -32,6 +35,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf744",
+			"id": 4,
 			"replacement": false,
 			"quantity": 5,
 			"name": "Generator 2000 kw",
@@ -42,6 +46,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf745",
+			"id": 5,
 			"replacement": true,
 			"quantity": 142,
 			"name": "Fuse 25A",
@@ -52,6 +57,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf746",
+			"id": 6,
 			"replacement": true,
 			"quantity": 122,
 			"name": "Fuse 13A",
@@ -62,6 +68,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf747",
+			"id": 7,
 			"replacement": true,
 			"quantity": 90,
 			"name": "Ball Valve 10 cm",
@@ -72,6 +79,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf748",
+			"id": 8,
 			"replacement": false,
 			"quantity": 2,
 			"name": "Converter",
@@ -82,6 +90,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf749",
+			"id": 9,
 			"replacement": true,
 			"quantity": 75,
 			"name": "Ball Valve 8 cm",
@@ -92,6 +101,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf74a",
+			"id": 10,
 			"replacement": true,
 			"quantity": 100,
 			"name": "Breaker 25A",
@@ -102,6 +112,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf74b",
+			"id": 11,
 			"replacement": true,
 			"quantity": 150,
 			"name": "Switch",
@@ -112,6 +123,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf74c",
+			"id": 12,
 			"replacement": true,
 			"quantity": 200,
 			"name": "Ball Valve 5 cm",
@@ -122,6 +134,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf74d",
+			"id": 13,
 			"replacement": false,
 			"quantity": 8,
 			"name": "UPS 3000 VA",
@@ -132,6 +145,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf74e",
+			"id": 14,
 			"replacement": false,
 			"quantity": 10,
 			"name": "UPS 1000 VA",
@@ -142,6 +156,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf74f",
+			"id": 15,
 			"replacement": true,
 			"quantity": 180,
 			"name": "Breaker 8A",
@@ -152,6 +167,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf750",
+			"id": 16,
 			"replacement": false,
 			"quantity": 2,
 			"name": "Cooling Tower",
@@ -162,6 +178,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf751",
+			"id": 17,
 			"replacement": true,
 			"quantity": 165,
 			"name": "Motor",
@@ -172,6 +189,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf752",
+			"id": 18,
 			"replacement": true,
 			"quantity": 210,
 			"name": "Breaker 13A",
@@ -182,6 +200,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf753",
+			"id": 19,
 			"replacement": true,
 			"quantity": 100,
 			"name": "Radiator Pump",
@@ -192,6 +211,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf754",
+			"id": 20,
 			"replacement": true,
 			"quantity": 129,
 			"name": "Breaker 20A",
@@ -202,6 +222,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf73f",
+			"id": 21,
 			"replacement": false,
 			"quantity": 10,
 			"name": "UPS 2000 VA",
@@ -212,6 +233,7 @@
 		},
 		{
 			"_id": "55d66226726b611100aaf740",
+			"id": 22,
 			"replacement": true,
 			"quantity": 194,
 			"name": "Fuse 8A",
